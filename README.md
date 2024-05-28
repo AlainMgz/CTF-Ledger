@@ -1,5 +1,6 @@
 # CTF-Ledger
 CTF Recrutement Ledger
+Based on [this CTF](https://github.com/b0l0k/intern-flag)
 
 ### How to use
 - `node v22.2.0` and `npm 10.7.0`
